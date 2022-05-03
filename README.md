@@ -1,5 +1,4 @@
 # Zualfekar-Aljanzeer
-My Personal Arear
 <br>
 Hi 👋 My name is Zualfekar Aljanzeer
 ====================================
